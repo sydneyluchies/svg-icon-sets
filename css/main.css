@@ -1,16 +1,47 @@
 html {
-  background-color: #ff9500;
+  background-image: linear-gradient(#ff9500, #ff5e3a);
+  font-family: 'Overpass', sans-serif;
+  text-align: center;
 }
 
 a {
   color: #fff;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
 
-
-a:hover {
+h2 {
+  font-weight: normal;
+  padding-top: 1.8em;
   color: #fff;
+  padding-bottom: 1.8em;
+  width : 12em;
+}
+
+.block  {
+  text-decoration: none;
+  padding-left: 1.1em;
+}
+
+p {
+  width : 16em;
+  padding-left: 1.4em;
+}
+
+.button {
+  text-decoration: none;
+  border: 3px solid #fff;
+  border-radius: 4px;
+  padding: .5em;
+}
+
+.button:hover {
+  background-color: #fff;
+}
+
+hr {
+  margin-top: 1.8em;
+  border-color: #ff9500;
+}
+
+ul {
+  margin-bottom: 0;
 }
