@@ -3,9 +3,14 @@ html {
 }
 
 a {
-  color: #76a500;
+  color: #fff;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
+
 a:hover {
-  color: #acc300;
+  color: #fff;
 }
