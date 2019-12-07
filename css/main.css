@@ -1,6 +1,6 @@
 html {
   background-image: linear-gradient(#ff9500, #ff5e3a);
-  font-family: 'Overpass', sans-serif;
+  font-family: Overpass, sans-serif;
   text-align: center;
 }
 
@@ -13,16 +13,16 @@ h2 {
   padding-top: 1.8em;
   color: #fff;
   padding-bottom: 1.8em;
-  width : 12em;
+  width: 12em;
 }
 
-.block  {
+.block {
   text-decoration: none;
   padding-left: 1.1em;
 }
 
 p {
-  width : 16em;
+  width: 16em;
   padding-left: 1.4em;
 }
 
